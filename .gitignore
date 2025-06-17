@@ -29,3 +29,5 @@ out/
 .idea/
 *.swp
     
+.vercel
+.env*.local
